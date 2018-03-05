@@ -30,7 +30,9 @@
 
 import numpy as np
 
+# list 배열 선언
 list1 = [1, 2, 3, 4]
+# list 배열 array화
 a= np.array(list1)
 print("배열 a :", a)
 print("a의 shape :", a.shape)
