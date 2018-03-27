@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>854889e2-f60e-4836-b404-21d0715d5d22</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ex01.py</StartupFile>
+    <StartupFile>ex03.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ex01.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex02.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ex03.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
